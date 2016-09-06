@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
+title:       Squoc
 email:       squoc.nguyen@gmail.com
 author:      Quoc S Nguyen
-description: "My personal blog where I write about what I've learnt in web development."
+description: "Squoc's blog where I write about what I've learnt in web development."
 baseurl:     ""
 url:         "http://squoc.github.io"
 date_format: "%b %-d, %Y"
@@ -69,6 +69,7 @@ share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
 
+# site variables
 text:
   pagination:
     newer: 'Newer'
@@ -91,7 +92,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
+    email:    'squoc.nguyen@gmail.com'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'

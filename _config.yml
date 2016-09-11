@@ -2,7 +2,7 @@
 title:       Squoc
 email:       squoc.nguyen@gmail.com
 author:      Quoc S Nguyen
-description: "Squoc's blog where I write about what I've learnt in web development."
+description: "Squoc's personal blog where I write about my life and what I've learnt in web development."
 baseurl:     ""
 url:         "http://squoc.github.io"
 date_format: "%b %-d, %Y"
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)

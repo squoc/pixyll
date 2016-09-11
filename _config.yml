@@ -4,7 +4,7 @@ email:       squoc.nguyen@gmail.com
 author:      Quoc S Nguyen
 description: "Squoc's personal blog where I write about my life and what I've learnt in web development."
 baseurl:     ""
-url:         "squoc.me"
+url:         "http://squoc.me"
 date_format: "%b %-d, %Y"
 
 # Google services
